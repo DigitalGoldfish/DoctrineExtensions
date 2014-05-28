@@ -1,5 +1,5 @@
 {
-    "name": "digitalgoldfish/doctrine-extensions",
+    "name": "gedmo/doctrine-extensions",
     "type": "library",
     "description": "Doctrine2 behavioral extensions",
     "keywords": [
@@ -34,10 +34,10 @@
         }
     ],
     "support": {
-        "email": "markus@oehler.at",
-        "wiki": "https://github.com/DigitalGoldfish/DoctrineExtensions/tree/master/doc",
-        "issues": "https://github.com/DigitalGoldfish/DoctrineExtensions/issues",
-        "source": "https://github.com/DigitalGoldfish/DoctrineExtensions"
+        "email": "gediminas.morkevicius@gmail.com",
+        "wiki": "https://github.com/l3pp4rd/DoctrineExtensions/tree/master/doc",
+        "issues": "https://github.com/l3pp4rd/DoctrineExtensions/issues",
+        "source": "https://github.com/l3pp4rd/DoctrineExtensions"
     },
     "require": {
         "php": ">=5.3.2",
